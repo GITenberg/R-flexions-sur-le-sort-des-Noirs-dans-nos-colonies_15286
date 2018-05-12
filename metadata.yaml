@@ -1,0 +1,32 @@
+_repo: R-flexions-sur-le-sort-des-Noirs-dans-nos-colonies_15286
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lescallier, Daniel, baron
+    aliases:
+    - Lescallier, M. (Daniel)
+    - Lescalier, Daniel, baron
+    birthdate: 1743
+    deathdate: 1822
+    gutenberg_agent_id: '5978'
+    url: http://www.gutenberg.org/2009/agents/5978
+description: ''
+gutenberg_bookshelf: FR Politique
+gutenberg_issued: '2005-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15286'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- France -- Colonies'
+- !lcsh 'Blacks -- France -- Colonies'
+- !lcsh 'Slaves -- France -- Colonies -- Social conditions'
+- !lcc 'HT'
+title: Réflexions sur le sort des Noirs dans nos colonies
+url: http://www.gutenberg.org/ebooks/15286
