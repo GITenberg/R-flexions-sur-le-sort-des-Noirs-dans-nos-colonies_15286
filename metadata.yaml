@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '5978'
     url: http://www.gutenberg.org/2009/agents/5978
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15286#R-flexions-sur-le-sort-des-Noirs-dans-nos-colonies
 gutenberg_bookshelf: FR Politique
 gutenberg_issued: '2005-03-08'
 gutenberg_type: Text
